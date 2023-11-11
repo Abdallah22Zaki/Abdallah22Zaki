@@ -3,7 +3,7 @@
 <p style="text-align: center;">
   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </p>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" height="200">
+<img align="right" src="https://th.bing.com/th/id/OIG.N8sH86anVMP4zVjfGNH4?pid=ImgGn&amp;w=1024&amp;h=1024&amp;rs=1" width="260" height="260">
 
 <h3 align="center">
   Welcome to Abdullah Zaki's profile!
